@@ -1,0 +1,33 @@
+:root{
+    --font-weigth-bold: 700;
+    --font-weigth-normal:400;
+    --font-size-h2:38px;
+    --font-size-h3: 20px;
+    --font-size-text: 18px;
+    --font-size-text-2: 16px;
+    --color-black:#232323;
+    --color-green: #3D8B74;
+    --name-line-heigth: 38px;
+    --mulish-font-family: 'Mulish', sans-serif;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body, div, h1, h2, p, ul, ol{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul, ol{
+    list-style: none;
+}
